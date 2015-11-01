@@ -3,16 +3,16 @@
 This is a master list of resources crowdsourced by the CodeBuddies community. Find us on [Slack](http://codebuddiesmeet.herokuapp.com) or on the [Hangouts platform](http://hangouts.codebuddies.org) and maybe on a Facebook group too, TBA.
 
 To submit a link here, please: 
-1. Fork this repository
-2. `git clone` your fork.
-3. Add your link and commit and push your change.
-4. Create a pull request. 
+- 1. Fork this repository
+- 2. `git clone` your fork.
+- 3. Add your link and commit and push your change.
+- 4. Create a pull request. 
 
 Each link should follow this format:
-[LINK]
-[Added by @your_username]
-[BRIEF DESCRIPTION]
-[- optional paragraph reviewing the resource]
+- [LINK]
+- [Added by @your_username]
+- [BRIEF DESCRIPTION]
+- [- optional paragraph reviewing the resource]
 
 ##HTML/CSS
 
