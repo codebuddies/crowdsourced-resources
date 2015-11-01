@@ -40,9 +40,7 @@ Each link should follow this format:
 - Added by @abdulhannanali
 - Link for the second book Programming JavaScript Applications by Eric Elliot
 
-[https://www.youtube.com/watch?v=FZSjvWtUxYk](https://www.youtube.com/watch?v=FZSjvWtUxYk)
-- Added by @linda
-- Found this backbone.js tutorial courtesy Gina.
+
 
 [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - Added by @abdulhannanali
@@ -58,6 +56,20 @@ Each link should follow this format:
 - Added by @wuworkshop
 - Just heard about this free weekly online training from Bitovi.
 
+
+###jQuery
+
+
+###AngularJS
+
+###BackboneJS
+[https://www.youtube.com/watch?v=FZSjvWtUxYk](https://www.youtube.com/watch?v=FZSjvWtUxYk)
+- Added by @linda
+- Found this backbone.js tutorial courtesy Gina.
+
+###NodeJS
+
+###MeteorJS
 
 ##SQL
 
