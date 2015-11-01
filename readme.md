@@ -101,4 +101,9 @@ Each link should follow this format:
 
 ###Ruby on Rails
 
+##External Lists
+[https://github.com/sindresorhus/awesome](https://github.
+- Added by @crazcalm
+- A curated list of, Platforms, Programming Languages, Front-end Development, Back-end Development, Computer Science, Big Data, etc.
+
 
