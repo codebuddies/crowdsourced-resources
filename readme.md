@@ -2,11 +2,11 @@
 
 This is a master list of resources crowdsourced by the CodeBuddies community. Find us on [Slack](http://codebuddiesmeet.herokuapp.com) or on the [Hangouts platform](http://hangouts.codebuddies.org) and maybe on a Facebook group too, TBA.
 
-To submit a link here, please: 
+To submit a link here, please:
 - Fork this repository
 - `git clone` your fork.
 - Add your link and commit and push your change.
-- Create a pull request. 
+- Create a pull request.
 
 Each link should follow this format:
 - [LINK]
@@ -16,9 +16,15 @@ Each link should follow this format:
 
 ##HTML/CSS
 
-
-
 ##Javascript
+
+[A Smarter Way To Learn JavaScript](http://www.amazon.com/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C)
+- Added by @will
+- For beginners.  Includes online interactive exercises.  I've heard great things about it.
+
+[Javascript: Understanding The Weird Parts](https://www.udemy.com/understand-javascript/)
+- Added by @will
+- A good course to go a little beyond the basics.  Not free but you will get coupons and special offers from Udemy once you sign up.
 
 [http://learnharmony.org/](http://learnharmony.org/)
 - Added by @wuworkshop
@@ -40,9 +46,7 @@ Each link should follow this format:
 - Added by @abdulhannanali
 - Link for the second book Programming JavaScript Applications by Eric Elliot
 
-
-
-[https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+[http://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - Added by @abdulhannanali
 
 [http://www.freecodecamp.com](http://www.freecodecamp.com)
@@ -56,9 +60,7 @@ Each link should follow this format:
 - Added by @wuworkshop
 - Just heard about this free weekly online training from Bitovi.
 
-
 ###jQuery
-
 
 ###AngularJS
 
@@ -71,39 +73,75 @@ Each link should follow this format:
 
 ###MeteorJS
 
+[Meteor Tips - Your First Meteor Application](http://meteortips.com/first-meteor-tutorial/)
+- added by @will
+- A great, easy to understand introduction to Meteor for newer programmers
+
+[Meteor Tips - Your Second Meteor Application](http://meteortips.com/second-meteor-tutorial/)
+- added by @will
+- Build another app and learn more about Meteor
+
+[Discover Meteor](https://www.discovermeteor.com/)
+- added by @will
+- the de facto standard.  Unfortunately not free.
+
 ##SQL
 
+[GalaxQL 3.0](http://sol.gfxile.net/g3/)
+- added by @will
+- A fun way to learn and practice SQL for beginners to intermediate.  This version is online but you can also download an app to desktop.
+
+[SQL Zoo](http://sqlzoo.net/)
+- added by @will
+- A step by step introduction with live interpreters.
 
 ##MongoDB
 
 ##C
+
+[Learn C the Hard Way](http://c.learncodethehardway.org/book/index.html)
+- added by @will
+- If you're going to subject yourself to learning C, you might as well do it the hard way.  Seriously though, a good introduction to some CS fundamentals and C programming.
 
 ##C++
 
 ##Java
 
 ##iOS Development
+
 ###Objective C
+
 ###Swift
 
 ##Python
 
-###Django
+[Learn Python the Hard Way](http://learnpythonthehardway.org/)
+- added by @will
+- Zed Shaw's books aren't for everyone but personally I love them.  This book will take you from complete beginner to competent programmer
 
+###Django
 
 ###Flask
 
 ###Data Science
 
-
 ##Ruby
 
+[Learn Ruby the Hard Way](http://learnrubythehardway.org/book)
+- added by @will
+- Zed Shaw's books aren't for everyone but personally I love them.  This book will take you from complete beginner to competent programmer
 
 ###Ruby on Rails
+
+[Rails Tutorial](https://www.railstutorial.org/)
+- added by @will
+- Every rails developer should read this book
+
+[The Odin Project](http://www.theodinproject.com/)
+- added by @will
+- A curriculum to learn the full stack, from the fundamentals of how the web works, to CSS and JavaScript, to building in Rails.
 
 ##Other Lists
 [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - Added by @crazcalm
 - A curated list of, Platforms, Programming Languages, Front-end Development, Back-end Development, Computer Science, Big Data, etc.
-
-
