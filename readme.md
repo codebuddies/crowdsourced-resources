@@ -16,6 +16,19 @@ Each link should follow this format:
 
 ##HTML/CSS
 
+##Git
+[A Practical Git Introduction](http://marc.helbling.fr/2014/09/practical-git-introduction) by Marchel Bling
+- Added by @wilcott321
+- A comprehensive guide that discusses gists, forking, branches, commits, merging, rebasing, as well as remote controls such as push, fetch, and pull.
+
+[Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html) by Richard E. Silverman
+- Added by @wilcott321
+- A shorter, but thorough guide that focuses on terminology, making commits, branching, merging, checking repo history, and basic parsing. The "How Do I..?" section is worth studying.
+
+[Learn Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial) by Michael Hartl
+- Added by @wilcott321
+- This is a hands-on guide that is very newbie-friendly. Each chapter includes an exercise on making commits, branching, merging, cloning, push and pull requests, remote repos, and how to write a README.md file.
+
 ##Javascript
 
 [A Smarter Way To Learn JavaScript](http://www.amazon.com/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C)
