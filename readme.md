@@ -16,6 +16,24 @@ Each link should follow this format:
 
 ##HTML/CSS
 
+[HTML, CSS and JavaScript](https://www.coursera.org/learn/html-css-javascript)
+- Added by @wilcott321
+- A 3-week MOOC from Hong Kong University of Science and Technology on the basics of HTML, CSS, and JavaScript. Focuses on interactivity for intermediate learners.
+
+##Git
+
+[A Practical Git Introduction](http://marc.helbling.fr/2014/09/practical-git-introduction) by Marchel Bling
+- Added by @wilcott321
+- A comprehensive guide that discusses gists, forking, branches, commits, merging, rebasing, as well as remote controls such as push, fetch, and pull.
+
+[Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html) by Richard E. Silverman
+- Added by @wilcott321
+- A shorter, but thorough guide that focuses on terminology, making commits, branching, merging, checking repo history, and basic parsing. The "How Do I..?" section is worth studying.
+
+[Learn Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial) by Michael Hartl
+- Added by @wilcott321
+- This is a hands-on guide that is very newbie-friendly. Each chapter includes an exercise on making commits, branching, merging, cloning, push and pull requests, remote repos, and how to write a README.md file.
+
 ##Javascript
 
 [A Smarter Way To Learn JavaScript](http://www.amazon.com/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C)
@@ -119,6 +137,14 @@ Each link should follow this format:
 - added by @will
 - Zed Shaw's books aren't for everyone but personally I love them.  This book will take you from complete beginner to competent programmer
 
+[Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/)
+- added by @wilcott321
+- In this free ebook, Sweigart teaches readers how to program in Python by building various automation scripts
+
+[Programming is for Everybody- Getting Started with Python](https://www.coursera.org/learn/python)
+- added by @wilcott321
+- A popular, newbie-friendly MOOC from the University of Michigan teaching programming fundamentals with python. I was introduced to and fell in love with programming with this course and I recommend it for all back-end beginners
+
 ###Django
 
 ###Flask
@@ -130,6 +156,10 @@ Each link should follow this format:
 [Learn Ruby the Hard Way](http://learnrubythehardway.org/book)
 - added by @will
 - Zed Shaw's books aren't for everyone but personally I love them.  This book will take you from complete beginner to competent programmer
+
+[Learn to Program](https://pine.fm/LearnToProgram) by Chris Pine
+- added by @wilcott321
+- A definitive tutorial on programming in Ruby. Topics include variables, arrays, iterators, methods, classes, and other topics. Translated in 12 languages for accessibility.
 
 ###Ruby on Rails
 
