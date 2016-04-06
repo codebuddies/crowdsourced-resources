@@ -15,6 +15,9 @@ Each link should follow this format:
 - [- optional paragraph reviewing the resource]
 
 ##HTML/CSS
+[HTML, CSS and JavaScript](https://www.coursera.org/learn/html-css-javascript)
+- Added by @wilcott321
+- A 3-week MOOC from Hong Kong University of Science and Technology on the basics of HTML, CSS, and JavaScript. Focuses on interactivity for intermediate learners.
 
 ##Git
 [A Practical Git Introduction](http://marc.helbling.fr/2014/09/practical-git-introduction) by Marchel Bling
