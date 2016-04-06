@@ -132,6 +132,14 @@ Each link should follow this format:
 - added by @will
 - Zed Shaw's books aren't for everyone but personally I love them.  This book will take you from complete beginner to competent programmer
 
+[Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/)
+- added by @wilcott321
+- In this free ebook, Sweigart teaches readers how to program in Python by building various automation scripts
+
+[Programming is for Everybody- Getting Started with Python](https://www.coursera.org/learn/python)
+- added by @wilcott321
+- A popular, newbie-friendly MOOC from the University of Michigan teaching programming fundamentals with python. I was introduced to and fell in love with programming with this course and I recommend it for all back-end beginners
+
 ###Django
 
 ###Flask
