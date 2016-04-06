@@ -15,11 +15,13 @@ Each link should follow this format:
 - [- optional paragraph reviewing the resource]
 
 ##HTML/CSS
+
 [HTML, CSS and JavaScript](https://www.coursera.org/learn/html-css-javascript)
 - Added by @wilcott321
 - A 3-week MOOC from Hong Kong University of Science and Technology on the basics of HTML, CSS, and JavaScript. Focuses on interactivity for intermediate learners.
 
 ##Git
+
 [A Practical Git Introduction](http://marc.helbling.fr/2014/09/practical-git-introduction) by Marchel Bling
 - Added by @wilcott321
 - A comprehensive guide that discusses gists, forking, branches, commits, merging, rebasing, as well as remote controls such as push, fetch, and pull.
@@ -154,6 +156,10 @@ Each link should follow this format:
 [Learn Ruby the Hard Way](http://learnrubythehardway.org/book)
 - added by @will
 - Zed Shaw's books aren't for everyone but personally I love them.  This book will take you from complete beginner to competent programmer
+
+[Learn to Program](https://pine.fm/LearnToProgram) by Chris Pine
+- added by @wilcott321
+- A definitive tutorial on programming in Ruby. Topics include variables, arrays, iterators, methods, classes, and other topics. Translated in 12 languages for accessibility.
 
 ###Ruby on Rails
 
