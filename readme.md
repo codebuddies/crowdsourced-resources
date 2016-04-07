@@ -28,6 +28,10 @@ Each link should follow this format:
 - Added by @Wilcott321
 - A community driven guide to HTML5 syntax and concepts. Also discusses video, accessibility, and APIs.
 
+Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-content/uploads/2013/04/smashing-ebook-19-mastering-css3.pdf)
+- Added by @Wilcott321
+- Smashing Magazine is the well-known resource to all things design and front-end developer related. This guide on CSS3 should be all you need to fully integrate styling in your projects.
+
 ##Git
 
 [A Practical Git Introduction](http://marc.helbling.fr/2014/09/practical-git-introduction) by Marchel Bling
@@ -85,6 +89,10 @@ Each link should follow this format:
 [http://blog.bitovi.com/free-weekly-online-javascript-training/](http://blog.bitovi.com/free-weekly-online-javascript-training/)
 - Added by @wuworkshop
 - Just heard about this free weekly online training from Bitovi.
+
+[Test-Driven JavaScript Development in Practice](http://code.tutsplus.com/tutorials/test-driven-javascript-development-in-practice--net-16246) by Christian Johansen
+- Added by @Wilcott321
+- Bought to you by TutsPlus, this guide is more for intermediate JS programmers, but offers a guide to TDD through examples you can add to your own code.
 
 ###jQuery
 
