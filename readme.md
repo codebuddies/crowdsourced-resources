@@ -17,8 +17,20 @@ Each link should follow this format:
 ##HTML/CSS
 
 [HTML, CSS and JavaScript](https://www.coursera.org/learn/html-css-javascript)
-- Added by @wilcott321
+- Added by @Wilcott321
 - A 3-week MOOC from Hong Kong University of Science and Technology on the basics of HTML, CSS, and JavaScript. Focuses on interactivity for intermediate learners.
+
+[Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide) by Mark Otto
+- Added by @Wilcott321
+- An easy to read online guide on HTML and CSS syntax with some JavaScript concepts explained. Great for those who only have 10-15 minutes a day to spend on studying code.
+
+[Dive Into HTML5](http://diveintohtml5.info) by Mark Pilgrim
+- Added by @Wilcott321
+- A community driven guide to HTML5 syntax and concepts. Also discusses video, accessibility, and APIs.
+
+Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-content/uploads/2013/04/smashing-ebook-19-mastering-css3.pdf)
+- Added by @Wilcott321
+- Smashing Magazine is the well-known resource to all things design and front-end developer related. This guide on CSS3 should be all you need to fully integrate styling in your projects.
 
 ##Git
 
@@ -27,11 +39,11 @@ Each link should follow this format:
 - A comprehensive guide that discusses gists, forking, branches, commits, merging, rebasing, as well as remote controls such as push, fetch, and pull.
 
 [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html) by Richard E. Silverman
-- Added by @wilcott321
+- Added by @Wilcott321
 - A shorter, but thorough guide that focuses on terminology, making commits, branching, merging, checking repo history, and basic parsing. The "How Do I..?" section is worth studying.
 
 [Learn Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial) by Michael Hartl
-- Added by @wilcott321
+- Added by @Wilcott321
 - This is a hands-on guide that is very newbie-friendly. Each chapter includes an exercise on making commits, branching, merging, cloning, push and pull requests, remote repos, and how to write a README.md file.
 
 ##Javascript
@@ -77,6 +89,10 @@ Each link should follow this format:
 [http://blog.bitovi.com/free-weekly-online-javascript-training/](http://blog.bitovi.com/free-weekly-online-javascript-training/)
 - Added by @wuworkshop
 - Just heard about this free weekly online training from Bitovi.
+
+[Test-Driven JavaScript Development in Practice](http://code.tutsplus.com/tutorials/test-driven-javascript-development-in-practice--net-16246) by Christian Johansen
+- Added by @Wilcott321
+- Bought to you by TutsPlus, this guide is more for intermediate JS programmers, but offers a guide to TDD through examples you can add to your own code.
 
 ###jQuery
 
@@ -138,11 +154,11 @@ Each link should follow this format:
 - Zed Shaw's books aren't for everyone but personally I love them.  This book will take you from complete beginner to competent programmer
 
 [Automate the Boring Stuff](http://automatetheboringstuff.com/chapter0/)
-- added by @wilcott321
+- added by @Wilcott321
 - In this free ebook, Sweigart teaches readers how to program in Python by building various automation scripts
 
 [Programming is for Everybody- Getting Started with Python](https://www.coursera.org/learn/python)
-- added by @wilcott321
+- added by @Wilcott321
 - A popular, newbie-friendly MOOC from the University of Michigan teaching programming fundamentals with python. I was introduced to and fell in love with programming with this course and I recommend it for all back-end beginners
 
 ###Django
@@ -158,7 +174,7 @@ Each link should follow this format:
 - Zed Shaw's books aren't for everyone but personally I love them.  This book will take you from complete beginner to competent programmer
 
 [Learn to Program](https://pine.fm/LearnToProgram) by Chris Pine
-- added by @wilcott321
+- added by @Wilcott321
 - A definitive tutorial on programming in Ruby. Topics include variables, arrays, iterators, methods, classes, and other topics. Translated in 12 languages for accessibility.
 
 ###Ruby on Rails
