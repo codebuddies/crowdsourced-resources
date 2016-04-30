@@ -177,6 +177,10 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - added by @Wilcott321
 - A definitive tutorial on programming in Ruby. Topics include variables, arrays, iterators, methods, classes, and other topics. Translated in 12 languages for accessibility.
 
+[Why's (Poignant) Guide to Ruby](http://poignant.guide/) by Jonathan Gillette
+- added by @howdoicomputer
+- A quirky and humorous introduction to the Ruby programming language by the reclusive Ruby figurehead _why. Chapters one and two are the introduction chapters with the programming bits starting up on chapter three.
+
 ###Ruby on Rails
 
 [Rails Tutorial](https://www.railstutorial.org/)
