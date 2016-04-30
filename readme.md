@@ -164,6 +164,13 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 ###Django
 
 ###Flask
+[Python Web Server with Flask](https://www.raspberrypi.org/learning/python-web-server-with-flask/)
+- added by @pdotasni
+- A simple webserver setup on a raspberry Pi using Flask
+
+[Restful API with Python and Flask](http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask)
+- added by @pdotsani
+- A nice intro to web services via REST using Flask
 
 ###Data Science
 
