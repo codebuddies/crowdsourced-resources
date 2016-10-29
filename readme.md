@@ -98,6 +98,14 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 
 ###AngularJS
 
+[AngularJS tutorial by Thinkful](https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/)
+- Added by @carolynlangton
+- Great overview of AngularJS from Thinkful. From the site: "Build a simple email application and learn core AngularJS concepts. By the end of this tutorial you'll be able to see (fake) emails, search by subject line and read/delete emails."
+
+[Shaping Up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+- Added by @carolynlangton
+- Free, interactive course on AngularJS from Code School. Each lesson begins with a short video and ends with the learner trying some interactive exercises/problems.
+
 ###BackboneJS
 [https://www.youtube.com/watch?v=FZSjvWtUxYk](https://www.youtube.com/watch?v=FZSjvWtUxYk)
 - Added by @linda
