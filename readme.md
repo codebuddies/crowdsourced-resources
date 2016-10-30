@@ -96,6 +96,18 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 
 ###jQuery
 
+[jQuery Learning Center](https://learn.jquery.com/)
+- Added by @carolynlangton
+- Sometimes you need to go directly to the source. This tutorial comes right from jquery.com and includes simple examples you can follow along with.
+
+[jQuery course by Codecademy](https://www.codecademy.com/learn/jquery)
+- Added by @carolynlangton
+- Free interactive course on jQuery from Codecademy.com. They recommend that you have some HTML and CSS knowledge before starting. They say JavaScript knowledge is recommended, but not required.
+
+[jQuery Cheatsheet](https://oscarotero.com/jquery/)
+- Added by @carolynlangton
+- A neatly organized reference of the entire jQuery API, hosted by web designer and developer Oscar Otero. Highly bookmarkable.
+
 ###AngularJS
 
 [AngularJS tutorial by Thinkful](https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/)
