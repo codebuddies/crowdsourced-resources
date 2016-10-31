@@ -218,6 +218,15 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - added by @will
 - A curriculum to learn the full stack, from the fundamentals of how the web works, to CSS and JavaScript, to building in Rails.
 
+##Golang
+[Go in 5 minutes](https://github.com/codebuddiesdotorg/crowdsourced-resources.git)
+- added by @crazcalm
+- This is the source code for the "Go in 5 minutes" [Youtube](https://www.youtube.com/channel/UC2GHqYE3fVJMncbrRd8AqcA) series of 5 minute videos that cover a specific topics in Golang.
+
+[Go Books](https://github.com/dariubs/GoBooks)
+- added by @crazcalm
+- This is a list of Golang books broken down in the categories of starter, advanced and web development, and all the free books are labeled.
+
 ##Other Lists
 [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - Added by @crazcalm
