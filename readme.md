@@ -236,6 +236,6 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - Added by @olivia
 - A useful site to search how to write something in a language (for example, a for loop)
 
-[In the Beggining was the Command Line](http://www.cryptonomicon.com/beginning.html)
+[In the Beginning was the Command Line](http://www.cryptonomicon.com/beginning.html)
 - added by @olivia
-- A brief, entertaining history of the command line 
+- A brief, entertaining history of the command line
