@@ -94,6 +94,11 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - Added by @Wilcott321
 - Bought to you by TutsPlus, this guide is more for intermediate JS programmers, but offers a guide to TDD through examples you can add to your own code.
 
+[Events and Callbacks](http://htmldog.com/guides/javascript) by Hasindu PMA
+
+- Added by @hasindupma
+- In the browser most code is event-driven and writing interactive applications in JavaScript is often about waiting for and reacting to events
+
 ###jQuery
 
 [jQuery Learning Center](https://learn.jquery.com/)
