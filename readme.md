@@ -94,6 +94,15 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - Added by @Wilcott321
 - Bought to you by TutsPlus, this guide is more for intermediate JS programmers, but offers a guide to TDD through examples you can add to your own code.
 
+###React
+[React Official Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
+- Added by @sergeant-q
+- Facebook Official Tutorial - Intro to React
+
+[React Guide - FAQ](https://github.com/timarney/react-faq)
+- Added by @sergeant-q
+- A collection of links to help answer your questions About React.js
+
 ###jQuery
 
 [jQuery Learning Center](https://learn.jquery.com/)
