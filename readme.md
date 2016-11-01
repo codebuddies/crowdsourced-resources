@@ -206,7 +206,7 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 
 [Why's (Poignant) Guide to Ruby](http://poignant.guide/) by Jonathan Gillette
 - added by @howdoicomputer
-- A quirky and humorous introduction to the Ruby programming language by the reclusive Ruby figurehead _why. Chapters one and two are the introduction chapters with the programming bits starting up on chapter three.
+- A quirky and humorous introduction to the Ruby programming language by the reclusive Ruby figurehead why. Chapters one and two are the introduction chapters with the programming bits starting up on chapter three.
 
 ###Ruby on Rails
 
@@ -231,3 +231,11 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - Added by @crazcalm
 - A curated list of, Platforms, Programming Languages, Front-end Development, Back-end Development, Computer Science, Big Data, etc.
+
+[SyntaxDB](https://syntaxdb.com/)
+- Added by @olivia
+- A useful site to search how to write something in a language (for example, a for loop)
+
+[In the Beginning was the Command Line](http://www.cryptonomicon.com/beginning.html)
+- added by @olivia
+- A brief, entertaining history of the command line
