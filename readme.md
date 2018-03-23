@@ -99,6 +99,15 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - Added by @hasindupma
 - In the browser most code is event-driven and writing interactive applications in JavaScript is often about waiting for and reacting to events
 
+###React
+[React Official Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
+- Added by @sergeant-q
+- Facebook Official Tutorial - Intro to React
+
+[React Guide - FAQ](https://github.com/timarney/react-faq)
+- Added by @sergeant-q
+- A collection of links to help answer your questions About React.js
+
 ###jQuery
 
 [jQuery Learning Center](https://learn.jquery.com/)
