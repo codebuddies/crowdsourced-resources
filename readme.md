@@ -94,6 +94,11 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - Added by @Wilcott321
 - Bought to you by TutsPlus, this guide is more for intermediate JS programmers, but offers a guide to TDD through examples you can add to your own code.
 
+[Events and Callbacks](http://htmldog.com/guides/javascript) by Hasindu PMA
+
+- Added by @hasindupma
+- In the browser most code is event-driven and writing interactive applications in JavaScript is often about waiting for and reacting to events
+
 ###React
 [React Official Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
 - Added by @sergeant-q
@@ -127,12 +132,17 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - Added by @carolynlangton
 - Free, interactive course on AngularJS from Code School. Each lesson begins with a short video and ends with the learner trying some interactive exercises/problems.
 
-### BackboneJS
+[Jquery Filter Example](http://www.mkyong.com/jquery/jquery-filter-example)
+- Added by @hasindupma
+- jQuery filter function is a useful feature to extract your elements from a set of the matched elements, by using the matched selector or the function’s test
+
+###BackboneJS
 [https://www.youtube.com/watch?v=FZSjvWtUxYk](https://www.youtube.com/watch?v=FZSjvWtUxYk)
 - Added by @linda
 - Found this backbone.js tutorial courtesy Gina.
 
-### NodeJS
+
+###NodeJS
 
 ### MeteorJS
 
