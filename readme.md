@@ -1,4 +1,4 @@
-#CodeBuddies Resources
+# CodeBuddies Resources
 
 This is a master list of resources crowdsourced by the CodeBuddies community. Find us on [Slack](http://codebuddiesmeet.herokuapp.com) or on the [Hangouts platform](http://hangouts.codebuddies.org) and maybe on a Facebook group too, TBA.
 
@@ -14,7 +14,7 @@ Each link should follow this format:
 - [BRIEF DESCRIPTION]
 - [- optional paragraph reviewing the resource]
 
-##HTML/CSS
+## HTML/CSS
 
 [HTML, CSS and JavaScript](https://www.coursera.org/learn/html-css-javascript)
 - Added by @Wilcott321
@@ -32,7 +32,7 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - Added by @Wilcott321
 - Smashing Magazine is the well-known resource to all things design and front-end developer related. This guide on CSS3 should be all you need to fully integrate styling in your projects.
 
-##Git
+## Git
 
 [A Practical Git Introduction](http://marc.helbling.fr/2014/09/practical-git-introduction) by Marchel Bling
 - Added by @wilcott321
@@ -46,7 +46,7 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - Added by @Wilcott321
 - This is a hands-on guide that is very newbie-friendly. Each chapter includes an exercise on making commits, branching, merging, cloning, push and pull requests, remote repos, and how to write a README.md file.
 
-##Javascript
+## Javascript
 
 [A Smarter Way To Learn JavaScript](http://www.amazon.com/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C)
 - Added by @will
@@ -113,7 +113,7 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - Added by @carolynlangton
 - A neatly organized reference of the entire jQuery API, hosted by web designer and developer Oscar Otero. Highly bookmarkable.
 
-###AngularJS
+### AngularJS
 
 [AngularJS tutorial by Thinkful](https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/)
 - Added by @carolynlangton
@@ -135,7 +135,7 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 
 ###NodeJS
 
-###MeteorJS
+### MeteorJS
 
 [Meteor Tips - Your First Meteor Application](http://meteortips.com/first-meteor-tutorial/)
 - added by @will
@@ -149,7 +149,7 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - added by @will
 - the de facto standard.  Unfortunately not free.
 
-##SQL
+## SQL
 
 [GalaxQL 3.0](http://sol.gfxile.net/g3/)
 - added by @will
@@ -159,25 +159,25 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - added by @will
 - A step by step introduction with live interpreters.
 
-##MongoDB
+## MongoDB
 
-##C
+## C
 
 [Learn C the Hard Way](http://c.learncodethehardway.org/book/index.html)
 - added by @will
 - If you're going to subject yourself to learning C, you might as well do it the hard way.  Seriously though, a good introduction to some CS fundamentals and C programming.
 
-##C++
+## C++
 
-##Java
+## Java
 
-##iOS Development
+## iOS Development
 
-###Objective C
+### Objective C
 
-###Swift
+### Swift
 
-##Python
+## Python
 
 [Learn Python the Hard Way](http://learnpythonthehardway.org/)
 - added by @will
@@ -191,9 +191,9 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - added by @Wilcott321
 - A popular, newbie-friendly MOOC from the University of Michigan teaching programming fundamentals with python. I was introduced to and fell in love with programming with this course and I recommend it for all back-end beginners
 
-###Django
+### Django
 
-###Flask
+### Flask
 [Python Web Server with Flask](https://www.raspberrypi.org/learning/python-web-server-with-flask/)
 - added by @pdotasni
 - A simple webserver setup on a raspberry Pi using Flask
@@ -202,9 +202,9 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - added by @pdotsani
 - A nice intro to web services via REST using Flask
 
-###Data Science
+### Data Science
 
-##Ruby
+## Ruby
 
 [Learn Ruby the Hard Way](http://learnrubythehardway.org/book)
 - added by @will
@@ -216,9 +216,9 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 
 [Why's (Poignant) Guide to Ruby](http://poignant.guide/) by Jonathan Gillette
 - added by @howdoicomputer
-- A quirky and humorous introduction to the Ruby programming language by the reclusive Ruby figurehead _why. Chapters one and two are the introduction chapters with the programming bits starting up on chapter three.
+- A quirky and humorous introduction to the Ruby programming language by the reclusive Ruby figurehead why. Chapters one and two are the introduction chapters with the programming bits starting up on chapter three.
 
-###Ruby on Rails
+### Ruby on Rails
 
 [Rails Tutorial](https://www.railstutorial.org/)
 - added by @will
@@ -228,7 +228,7 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - added by @will
 - A curriculum to learn the full stack, from the fundamentals of how the web works, to CSS and JavaScript, to building in Rails.
 
-##Golang
+## Golang
 [Go in 5 minutes](https://github.com/codebuddiesdotorg/crowdsourced-resources.git)
 - added by @crazcalm
 - This is the source code for the "Go in 5 minutes" [Youtube](https://www.youtube.com/channel/UC2GHqYE3fVJMncbrRd8AqcA) series of 5 minute videos that cover a specific topics in Golang.
@@ -237,7 +237,15 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - added by @crazcalm
 - This is a list of Golang books broken down in the categories of starter, advanced and web development, and all the free books are labeled.
 
-##Other Lists
+## Other Lists
 [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - Added by @crazcalm
 - A curated list of, Platforms, Programming Languages, Front-end Development, Back-end Development, Computer Science, Big Data, etc.
+
+[SyntaxDB](https://syntaxdb.com/)
+- Added by @olivia
+- A useful site to search how to write something in a language (for example, a for loop)
+
+[In the Beginning was the Command Line](http://www.cryptonomicon.com/beginning.html)
+- added by @olivia
+- A brief, entertaining history of the command line
