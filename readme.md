@@ -180,6 +180,10 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 
 ## Java
 
+[Introduction to Java Programming – Part 1](https://www.edx.org/course/introduction-java-programming-part-1-hkustx-comp102-1x-5)
+- added by @ZoranPandovski
+- Learn the fundamental elements of Java programming and data abstraction.
+
 ## iOS Development
 
 ### Objective C
