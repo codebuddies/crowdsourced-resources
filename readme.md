@@ -184,6 +184,10 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - added by @ZoranPandovski
 - Learn the fundamental elements of Java programming and data abstraction.
 
+[Introduction to Java Programming – Part 2](https://www.edx.org/course/introduction-java-programming-part-2-hkustx-comp102-2x-7)
+- added by @ZoranPandovski
+- Learn the fundamental elements of Java programming and data abstraction Part 2.
+
 ## iOS Development
 
 ### Objective C
