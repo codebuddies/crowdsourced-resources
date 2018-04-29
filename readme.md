@@ -99,7 +99,7 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - Added by @hasindupma
 - In the browser most code is event-driven and writing interactive applications in JavaScript is often about waiting for and reacting to events
 
-###React
+### React
 [React Official Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
 - Added by @sergeant-q
 - Facebook Official Tutorial - Intro to React
@@ -108,7 +108,7 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - Added by @sergeant-q
 - A collection of links to help answer your questions About React.js
 
-###jQuery
+### jQuery
 
 [jQuery Learning Center](https://learn.jquery.com/)
 - Added by @carolynlangton
@@ -136,13 +136,13 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - Added by @hasindupma
 - jQuery filter function is a useful feature to extract your elements from a set of the matched elements, by using the matched selector or the function’s test
 
-###BackboneJS
+### BackboneJS
 [https://www.youtube.com/watch?v=FZSjvWtUxYk](https://www.youtube.com/watch?v=FZSjvWtUxYk)
 - Added by @linda
 - Found this backbone.js tutorial courtesy Gina.
 
 
-###NodeJS
+### NodeJS
 
 ### MeteorJS
 
@@ -215,7 +215,7 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - added by @pdotsani
 - A nice intro to web services via REST using Flask
 
-### Data Science
+## Data Science
 
 ## Ruby
 
