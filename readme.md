@@ -200,6 +200,10 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - added by @Wilcott321
 - A popular, newbie-friendly MOOC from the University of Michigan teaching programming fundamentals with python. I was introduced to and fell in love with programming with this course and I recommend it for all back-end beginners
 
+[Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data)
+- added by @ZoranPandovski
+-  This course will show how one can treat the Internet as a source of data.  We will scrape, parse, and read web data as well as access data using web APIs.  We will work with HTML, XML, and JSON data formats in Python.
+
 ### Django
 
 ### Flask
