@@ -170,6 +170,10 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 
 ## MongoDB
 
+[Introduction to MongoDB](https://www.coursera.org/learn/introduction-mongodb)
+- added by @ZoranPandovski
+- Fundamentals of MongoDB, including MongoDB’s Document data model, importing data into a cluster, working with our CRUD API and Aggregation Framework
+
 ## C
 
 [Learn C the Hard Way](http://c.learncodethehardway.org/book/index.html)
