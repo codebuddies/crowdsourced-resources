@@ -143,6 +143,9 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 
 
 ### NodeJS
+[Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs)
+- Added by @ZoranPandovski
+- We examine NodeJS and NodeJS modules: Express for building web servers. On the database side, we review basic CRUD operations, NoSQL databases, in particular MongoDB and Mongoose.
 
 ### MeteorJS
 
@@ -169,6 +172,10 @@ Smashing Magazine's guide [Mastering CSS3](http://www.fba.org.au/wordpress/wp-co
 - A step by step introduction with live interpreters.
 
 ## MongoDB
+
+[Introduction to MongoDB](https://www.coursera.org/learn/introduction-mongodb)
+- added by @ZoranPandovski
+- Fundamentals of MongoDB, including MongoDB’s Document data model, importing data into a cluster, working with our CRUD API and Aggregation Framework
 
 ## C
 
