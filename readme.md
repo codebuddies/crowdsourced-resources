@@ -3,7 +3,7 @@
 This is a master list of resources crowdsourced by the CodeBuddies community. Find us on [Slack](http://codebuddiesmeet.herokuapp.com) or on the [Hangouts platform](http://hangouts.codebuddies.org) and maybe on a Facebook group too, TBA.
 
 
-## Table of contents
+## Contents
  * [HTML/CSS](https://github.com/codebuddies/crowdsourced-resources#htmlcss)
  * [Git](https://github.com/codebuddies/crowdsourced-resources#git)
  * [JavaScript](https://github.com/codebuddies/crowdsourced-resources#javascript)
@@ -29,20 +29,8 @@ This is a master list of resources crowdsourced by the CodeBuddies community. Fi
  * [Other lists](https://github.com/codebuddies/crowdsourced-resources#other-lists)
 
 
-
-
- 
-To submit a link here, please:
-- Fork this repository
-- `git clone` your fork.
-- Add your link and commit and push your change.
-- Create a pull request.
-
-Each link should follow this format:
-- [LINK]
-- [Added by @your_username]
-- [BRIEF DESCRIPTION]
-- [- optional paragraph reviewing the resource]
+## Contributions
+If we are missing some resource, follow our [contribution guide](https://github.com/crowdsourced-resources/blob/master/contributing.md) and make PR.   
 
 ## HTML/CSS
 
