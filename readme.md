@@ -2,6 +2,36 @@
 
 This is a master list of resources crowdsourced by the CodeBuddies community. Find us on [Slack](http://codebuddiesmeet.herokuapp.com) or on the [Hangouts platform](http://hangouts.codebuddies.org) and maybe on a Facebook group too, TBA.
 
+
+## Table of contents
+ * [HTML/CSS](https://github.com/codebuddies/crowdsourced-resources#htmlcss)
+ * [Git](https://github.com/codebuddies/crowdsourced-resources#git)
+ * [JavaScript](https://github.com/codebuddies/crowdsourced-resources#javascript)
+   * [React](https://github.com/codebuddies/crowdsourced-resources#react)
+   * [jQuery](https://github.com/codebuddies/crowdsourced-resources#jquery)
+   * [AngularJS](https://github.com/codebuddies/crowdsourced-resources#angularjs)
+   * [BackboneJS](https://github.com/codebuddies/crowdsourced-resources#backbonejs)
+   * [NodeJS](https://github.com/codebuddies/crowdsourced-resources#nodejs)
+   * [MeteorJS](https://github.com/codebuddies/crowdsourced-resources#meteorjs)
+ * [SQL](https://github.com/codebuddies/crowdsourced-resources#sql)
+  * [MongoDB](https://github.com/codebuddies/crowdsourced-resources#mongodb)
+ * [C](https://github.com/codebuddies/crowdsourced-resources#c)
+ * [C++](https://github.com/codebuddies/crowdsourced-resources#c-1)
+ * [iOS Development](https://github.com/codebuddies/crowdsourced-resources#ios-development)
+   * [Swift](https://github.com/codebuddies/crowdsourced-resources#swift)
+   * [Objective C](https://github.com/codebuddies/crowdsourced-resources#objective-c)
+ * [Python](https://github.com/codebuddies/crowdsourced-resources#python)
+   * [Django](https://github.com/codebuddies/crowdsourced-resources#django)
+   * [Flask](https://github.com/codebuddies/crowdsourced-resources#flask)
+ * [Ruby](https://github.com/codebuddies/crowdsourced-resources#ruby)
+  * [Ruby on Rails](https://github.com/codebuddies/crowdsourced-resources#ruby-on-rails)
+ * [Golang](https://github.com/codebuddies/crowdsourced-resources#golang)
+ * [Other lists](https://github.com/codebuddies/crowdsourced-resources#other-lists)
+
+
+
+
+ 
 To submit a link here, please:
 - Fork this repository
 - `git clone` your fork.
